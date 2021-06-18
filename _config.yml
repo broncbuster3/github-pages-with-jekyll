@@ -1,11 +1,10 @@
 title: Jesse's Epic Stuff
-author: GitHub username broncbuster3
+author: Jesse Neal
 email: Email jesseneal9@gmail.com
 theme: minima
-description: This site shows all the things that I have learned to do. This includes programming, woodwork, vinyl wraps, and any other stuff I would like to show off.
+description: This site shows all the things that I have learned to do. This includes programming, woodwork, vinyl wraps, and any other stuff I like to show off.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  broncbuster3
 
 show_excerpts: true # set to false to remove excerpts on the homepage
