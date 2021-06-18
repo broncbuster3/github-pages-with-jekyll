@@ -1,1 +1,4 @@
-"This is my first go at GitHub. I am really interested to see what I can do with this."
+---
+title: "Jesse's Show of Stuff"
+date: 2021-06-18
+---
